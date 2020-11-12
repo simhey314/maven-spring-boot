@@ -8,7 +8,6 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-
 	<groupId>de.heyden.simon</groupId>
 	<artifactId>maven-spring-boot</artifactId>
 	<version>${revision}</version>
